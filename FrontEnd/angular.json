@@ -23,9 +23,19 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/fonts/beyond_the_mountains-webfont.css",
+              "src/assets/plugin-frameworks/bootstrap.min.css",
+              "src/assets/plugin-frameworks/swiper.css",
+              "src/assets/fonts/ionicons.css",
+              "src/assets/common/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/plugin-frameworks/jquery-3.2.1.min.js",
+              "src/assets/plugin-frameworks/bootstrap.min.js",
+              "src/assets/plugin-frameworks/swiper.js",
+              "src/assets/common/scripts.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
